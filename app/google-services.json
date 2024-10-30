@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "226274636519",
+    "firebase_url": "https://fir-lite-ba91e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-lite-ba91e",
+    "storage_bucket": "fir-lite-ba91e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226274636519:android:deaa583801ce06cca1a842",
+        "android_client_info": {
+          "package_name": "com.jacobcastillam.cursofirebaselite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaYachdfOHRLsf6CfHk4WEz8DeiaAU_pY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
